@@ -10,6 +10,7 @@ public class HelloGit {
         System.out.println("在线添加");
         System.out.println("克隆添加");
         System.out.println("重复添加");
+        System.out.println("测试ssh");
 
     }
 }
